@@ -1,1 +1,2 @@
 # Slot Machine 
+Slot Game 
